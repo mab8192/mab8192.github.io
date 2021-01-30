@@ -16,50 +16,31 @@ darkmode: true
 
 # Social links
 github_username:  mab8192
-# stackoverflow_username: "00000001"
-# dribbble_username: jekyll
-# facebook_username: jekyll
-# flickr_username: jekyll
-linkedin_username: jameswgrant
-# xing_username: jekyll
-# pinterest_username: jekyll
-# googleplus_username: +jekyll
-# orcid_username: 0000-0000-0000-0000
-
-# Additional icon links
-additional_links:
-- title: itsgoingto.be
-  icon: fas fa-globe
-  url: https://www.itsgoingto.be
-# - title: another link
-#   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
-#   url: Link url (eg. https://google.com)
-
-# Google Analytics and Tag Manager
-# Using more than one of these may cause issues with reporting
-# gtm: "GTM-0000000"
-# gtag: "UA-00000000-0"
-# google_analytics: "UA-00000000-0"
+linkedin_username: michael-blum-752578104
+orcid_username: 0000-0002-1077-6780
 
 # About Section
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
+  Hi, my name is Michael and I'm a junior data scientist at Codazen. In addition to data management and analysis, I also have experience in full-stack web development.
 
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  I am a student at the University of Utah, currently participating in the BS/MS degree program through the School of Computing, where I have the opportunity to work concurrently on my Bachelor's and Master's degrees in computer science. My MS degree has a focus on data science.
+
+  Known programming languages: <mark>Python</mark>, <mark>Java</mark>, <mark>C++</mark>, <mark>C#</mark>, <mark>C</mark>, and <mark>JavaScript</mark>.
+
+  Proficient technologies: <mark>Linux</mark>, <mark>Git</mark>, <mark>AWS (EC2, Elastic Beanstalk)</mark>, <mark>PyTorch</mark>
 
 content:
-
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Harvard University
-        caption: 2010 - 2013
-        sub_title: BSc Computer Science
+        title: University of Utah
+        caption: 2015 - 2022
+        sub_title: "MS in Computing: Data Managment and Analysis, BS Computer Science, Minor Physics, Minor Mathematics"
         quote: >
-          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+          Founded in 1850, The University of Utah is the flagship institution of higher learning in Utah. The U is the best in the nation for technology commercialization (Milken Institute rankings).
         description: | # this will include new lines to allow paragraphs
           During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
 
@@ -69,34 +50,39 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: The Boring Company
-        link: boringcompany.com
-        # link_text: boringcompany.com
-        sub_title: Senior Network System Administrator
-        caption: November 2017 - Present
+        title: Codazen
+        link: www.codazen.com
+        sub_title: Data Scientist
+        caption: May 2020 - Present
         quote: >
-          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+          A creative technology company that crafts digital experiences and enterprise solutions for global brands.
         description: | # this will include new lines to allow paragraphs
-            Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
+            At Codazen, I work in a team with 2 other data scientists to identify and implement machine learning solutions for many different kinds of business problems. 
+
+            Recently, our work has focused on computer vision and natural language processing applications in order to help our customers improve their branding.
+
+      - layout: left
+        title: The University of Utah
+        link: www.utah.edu
+        sub_title: Undergraduate Researcher
+        caption: January 2020 - May 2020
+        quote: >
+          The Undergraduate Research Opportunities Program (UROP) provides undergraduate students and mentors the opportunity to work together on research or creative projects.
+        description: | # this will include new lines to allow paragraphs
+            Before beginning my own research, I volunteered as an undergraduate research assistant at the Integrated Multi-Physics (IMP) Lab in the College of Engineering. The head of the lab, Dr. Pania Newell, strongly encouraged me to pursue the UROP program and engage in my own research. Following her suggestion, I applied and was granted the opportunity to conduct my own research through the lab with financial support from the university.
+
+            The IMP lab focuses primarily on nanoscale porous media, such as amorphous silica. The project Dr. Newell and I came up with was an investigation into the coupled effects that fracture orientation and pore size have on amorphous silica at the atomic level. In order to carry out this investigation, I had to quickly learn how to use LAMMPS, a molecular dynamics (MD) simulation software, and OVITO, a MD visualization program.
+
+            As a result of my efforts, I was included as a co-author on two papers, detailed in a later section.
 
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Super awesome project
-        link: github.com/sproogen
-        # link_text: Project Website
-        additional_links:
-          - title:  sproogen/modern-resume-theme
-            icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+        title: Game of Life
+        link: mab8192.github.io/GameOfLife/
         description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+          I created this project mostly as a way for me to learn the basics of HTML canvas and JavaScript. I enjoy learning about and using cellular automata and Conway's Game of Life is a great place to start!
 
   - title: A Little More About Me
     layout: text
@@ -107,8 +93,8 @@ content:
       - Knitting
       - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
 
-      Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+      Look at this cool image
+      ![Trees](/images/landscape-trees.jpg "Trees")
 
 # Footer
 footer_show_references: true
