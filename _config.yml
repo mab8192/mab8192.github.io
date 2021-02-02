@@ -106,7 +106,9 @@ content:
 
       - layout: left
         title: Fidelity Investments via Education at Work
-        link: www.fidelity.com // https://educationatwork.org/
+        links: |
+          www.fidelity.com
+          https://educationatwork.org/
         sub_title: Data Operations Associate
         caption: January 2020 - May 2020
         quote: >
