@@ -86,37 +86,35 @@ content:
         quote: >
           A creative technology company that crafts digital experiences and enterprise solutions for global brands.
         description: |
-            At Codazen, I work in a team with 2 other data scientists to identify and implement machine learning solutions for many different kinds of business problems. 
+          At Codazen, I work in a team with 2 other data scientists to identify and implement machine learning solutions for many different kinds of business problems.
 
-            Recently, our work has focused on computer vision and natural language processing applications in order to help our customers improve their branding.
+          Recently, our work has focused on computer vision and natural language processing applications in order to help our customers improve their branding.
 
       - layout: left
-        title: The University of Utah
-        link: www.utah.edu
+        title: Integrated Multi-Physics Lab, The University of Utah
+        link: https://newell.mech.utah.edu/
         sub_title: Undergraduate Researcher
         caption: January 2020 - May 2020
         quote: >
           The Undergraduate Research Opportunities Program (UROP) provides undergraduate students and mentors the opportunity to work together on research or creative projects.
         description: |
-            Before beginning my own research, I volunteered as an undergraduate research assistant at the Integrated Multi-Physics (IMP) Lab in the College of Engineering. The head of the lab, Dr. Pania Newell, strongly encouraged me to pursue the UROP program and engage in my own research. Following her suggestion, I applied and was granted the opportunity to conduct my own research through the lab with financial support from the university.
+          Before beginning my own research, I volunteered as an undergraduate research assistant at the Integrated Multi-Physics (IMP) Lab in the College of Engineering. The head of the lab, Dr. Pania Newell, strongly encouraged me to pursue the UROP program and engage in my own research. Following her suggestion, I applied and was granted the opportunity to conduct my own research through the lab with financial support from the university.
 
-            The IMP lab focuses primarily on nanoscale porous media, such as amorphous silica. The project Dr. Newell and I came up with was an investigation into the coupled effects that fracture orientation and pore size have on amorphous silica at the atomic level. In order to carry out this investigation, I had to quickly learn how to use LAMMPS, a molecular dynamics (MD) simulation software, and OVITO, a MD visualization program.
+          The IMP lab focuses primarily on nanoscale porous media, such as amorphous silica. The project Dr. Newell and I came up with was an investigation into the coupled effects that fracture orientation and pore size have on amorphous silica at the atomic level. In order to carry out this investigation, I had to quickly learn how to use LAMMPS, a molecular dynamics (MD) simulation software, and OVITO, a MD visualization program.
 
-            As a result of my efforts, I was included as a co-author on two papers, detailed in a later section.
+          As a result of my efforts, I was included as a co-author on two papers, detailed in a later section.
 
       - layout: left
         title: Fidelity Investments via Education at Work
-        links: |
-          www.fidelity.com
-          https://educationatwork.org/
+        link: www.fidelity.com
         sub_title: Data Operations Associate
         caption: January 2020 - May 2020
         quote: >
           Fidelity helps over 32 million people feel more confident in their most important financial goals, manages employee benefit programs for over 22,000 businesses, and supports more than 13,000 financial institutions with innovative investment and technology solutions to grow their businesses.
         description: |
-            Significantly increased the efficiency of multiple teams through the creation of 20+ VBA macros built forsystems automation.
-            Researched and fixed data discrepancies.
-            Completed quality control audits daily to ensure company standards were met.
+          Significantly increased the efficiency of multiple teams through the creation of 20+ VBA macros built forsystems automation.
+          Researched and fixed data discrepancies.
+          Completed quality control audits daily to ensure company standards were met.
 
   - title: Projects
     layout: list
