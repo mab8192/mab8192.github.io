@@ -45,11 +45,38 @@ content:
           Minor Mathematics
         quote: >
           Founded in 1850, The University of Utah is the flagship institution of higher learning in Utah. The U is the best in the nation for technology commercialization (Milken Institute rankings).
-        description: | # this will include new lines to allow paragraphs
+        description: |
           [Insert discussion about my experience at the U]
 
-  - title: Experience # Title for the section
-    layout: list # Type of content section (list/text)
+  - title: Honors & Awards
+    layout: list
+    content:
+      - layout: left
+        title: Dean's List
+        caption: 2015 - Present
+        description: |
+          Awarded to students with at least a 3.5 GPA for any given semester. I have been on the dean's list for every semester that I've attended at the University of Utah.
+
+      - layout: left
+        title: Robert R. Johnson Innovation Endowed Scholarship
+        caption: 2020 - 2021
+        description: |
+          Recipient of this scholarship for the Fall 2020 and Spring 2021 semesters. This scholarship is awarded to students identified for performing meaningful research.
+
+      - layout: left
+        title: Departmental Tuition Waiver Scholarship
+        caption: 2015 - 2022
+        description: |
+          Received this scholarship for academic excellence.
+
+      - layout: left
+        title: Partial Honors at Entrance Scholarship
+        caption: 2015 - 2022
+        description:
+          Awarded upon entry to the University of Utah for high school transcript and ACT performance.
+
+  - title: Experience
+    layout: list
     content:
       - layout: left
         title: Codazen
@@ -58,7 +85,7 @@ content:
         caption: May 2020 - Present
         quote: >
           A creative technology company that crafts digital experiences and enterprise solutions for global brands.
-        description: | # this will include new lines to allow paragraphs
+        description: |
             At Codazen, I work in a team with 2 other data scientists to identify and implement machine learning solutions for many different kinds of business problems. 
 
             Recently, our work has focused on computer vision and natural language processing applications in order to help our customers improve their branding.
@@ -70,33 +97,42 @@ content:
         caption: January 2020 - May 2020
         quote: >
           The Undergraduate Research Opportunities Program (UROP) provides undergraduate students and mentors the opportunity to work together on research or creative projects.
-        description: | # this will include new lines to allow paragraphs
+        description: |
             Before beginning my own research, I volunteered as an undergraduate research assistant at the Integrated Multi-Physics (IMP) Lab in the College of Engineering. The head of the lab, Dr. Pania Newell, strongly encouraged me to pursue the UROP program and engage in my own research. Following her suggestion, I applied and was granted the opportunity to conduct my own research through the lab with financial support from the university.
 
             The IMP lab focuses primarily on nanoscale porous media, such as amorphous silica. The project Dr. Newell and I came up with was an investigation into the coupled effects that fracture orientation and pore size have on amorphous silica at the atomic level. In order to carry out this investigation, I had to quickly learn how to use LAMMPS, a molecular dynamics (MD) simulation software, and OVITO, a MD visualization program.
 
             As a result of my efforts, I was included as a co-author on two papers, detailed in a later section.
 
-  - title: Projects # Title for the section
-    layout: list # Type of content section (list/text)
+      - layout: left
+        title: Fidelity Investments via Education at Work
+        link: www.fidelity.com // https://educationatwork.org/
+        sub_title: Data Operations Associate
+        caption: January 2020 - May 2020
+        quote: >
+          The Undergraduate Research Opportunities Program (UROP) provides undergraduate students and mentors the opportunity to work together on research or creative projects.
+        description: |
+            Before beginning my own research, I volunteered as an undergraduate research assistant at the Integrated Multi-Physics (IMP) Lab in the College of Engineering. The head of the lab, Dr. Pania Newell, strongly encouraged me to pursue the UROP program and engage in my own research. Following her suggestion, I applied and was granted the opportunity to conduct my own research through the lab with financial support from the university.
+
+            The IMP lab focuses primarily on nanoscale porous media, such as amorphous silica. The project Dr. Newell and I came up with was an investigation into the coupled effects that fracture orientation and pore size have on amorphous silica at the atomic level. In order to carry out this investigation, I had to quickly learn how to use LAMMPS, a molecular dynamics (MD) simulation software, and OVITO, a MD visualization program.
+
+            As a result of my efforts, I was included as a co-author on two papers, detailed in a later section.
+
+  - title: Projects
+    layout: list
     content:
       - layout: top-middle
         title: Game of Life
         link: mab8192.github.io/GameOfLife/
-        description: | # this will include new lines to allow paragraphs
+        description: |
           I created this project mostly as a way for me to learn the basics of HTML canvas and JavaScript. I enjoy learning about and using cellular automata and Conway's Game of Life is a great place to start!
 
   - title: A Little More About Me
     layout: text
-    content: | # this will include new lines to allow paragraphs
+    content: |
       Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
-
-      Look at this cool image
-      ![Trees](/images/landscape-trees.jpg "Trees")
+      - Rocket League (I play for the University of Utah)
+      - Watching movies
 
 # Footer
 footer_show_references: true
