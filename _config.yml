@@ -31,7 +31,7 @@ about_content: | # this will include new lines to allow paragraphs
 
   With Python in particular, I have professional experience with <mark>PyTorch</mark>, <mark>NumPy</mark>, <mark>SpaCy</mark>, <mark>Scikit-learn</mark>, <mark>Pandas</mark>, and many of the other commonly used packages.
 
-  In addition to those languages, I'm also proficient in the following technologies: <mark>Windows/Linux/Mac</mark>, <mark>Git</mark>, <mark>AWS (EC2, Elastic Beanstalk)</mark>, <mark>Azure</mark>, and <mark>Heroku</mark>.
+  In addition to those languages, I'm also proficient in the following technologies: <mark>Windows/Linux/Mac</mark>, <mark>Git</mark>, <mark>AWS (EC2, Elastic Beanstalk, S3, RDS, etc.)</mark>, <mark>Azure</mark>, and <mark>Heroku</mark>.
 
 content:
   - title: Education # Title for the section
