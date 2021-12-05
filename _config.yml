@@ -43,15 +43,15 @@ content:
           MS in Computing: Data Managment and Analysis
         caption: 2021 - 2022
         description: |
-          For my Master's degree, I chose to pursue the Data Management and Analysis track. Within this track, there is a separate Data Science option, which is the track I am currently working towards. I am taking classes such as <mark>Deep Learning</mark>, <mark>Machine Learning</mark>, <mark>Data Mining</mark>, and many others to help get my machine learning engineering skills as sharp as possible.
+          For my Master's degree, I chose to pursue the Data Management and Analysis track. Within this track, there is a separate Data Science option which is the track I am currently working towards. I am taking classes such as <mark>Deep Learning</mark>, <mark>Machine Learning</mark>, <mark>Data Mining</mark>, and many others to help get my machine learning engineering skills as sharp as possible.
 
       - layout: left
         title: University of Utah
         sub_title: |
           BS Computer Science, Minor Physics
         caption: 2015 - 2021
-        quote: >
-          Founded in 1850, The University of Utah is the flagship institution of higher learning in Utah. The U is the best in the nation for technology commercialization (Milken Institute rankings).
+        description: |
+          For my Bachelor's degree, I initially started out as a Physics major. I worked towards that degree for about two years before making the decision to switch to Computer Science. My CS electives included: <mark>Artificial Intelligence</mark>, <mark>Virtual Reality</mark>, <mark>Computer Graphics</mark>, <mark>Robotics</mark>, <mark>Computer Networks</mark>, and <mark>Web Browser Internals</mark>. Of these classes, AI and VR were my two favorites.
 
   - title: Honors & Awards
     layout: list
