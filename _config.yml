@@ -39,14 +39,19 @@ content:
     content:
       - layout: left
         title: University of Utah
-        caption: 2021 - 2022
         sub_title: |
           MS in Computing: Data Managment and Analysis
+        caption: 2021 - 2022
+        description: |
+          For my Master's degree, I chose to pursue the Data Management and Analysis track. Within this track, there is a separate Data Science option, which is the track I am currently working towards. I am taking classes such as <mark>Deep Learning</mark>, <mark>Machine Learning</mark>, <mark>Data Mining</mark>, and many others to help get my machine learning engineering skills as sharp as possible.
+
       - layout: left
         title: University of Utah
-        caption: 2015 - 2021
         sub_title: |
-          BS Computer Science + Minor Physics
+          BS Computer Science, Minor Physics
+        caption: 2015 - 2021
+        quote: >
+          Founded in 1850, The University of Utah is the flagship institution of higher learning in Utah. The U is the best in the nation for technology commercialization (Milken Institute rankings).
 
   - title: Honors & Awards
     layout: list
@@ -61,13 +66,13 @@ content:
         title: Robert R. Johnson Innovation Endowed Scholarship
         caption: 2020 - 2021
         description: |
-          Recipient of this scholarship for the Fall 2020 and Spring 2021 semesters. This scholarship is awarded to students identified for performing meaningful research.
+          Awarded to students identified for performing meaningful research.
 
       - layout: left
         title: Departmental Tuition Waiver Scholarship
         caption: 2015 - 2022
         description: |
-          Received this scholarship for academic excellence.
+          Awarded to students for academic excellence.
 
       - layout: left
         title: Partial Honors at Entrance Scholarship
@@ -119,23 +124,26 @@ content:
   - title: Projects
     layout: list
     content:
-      - layout: top-middle
+      - layout: left
         title: Game of Life
         link: mab8192.github.io/GameOfLife/
+        link_text: Check it out
         description: |
-          I created this project mostly as a way for me to learn the basics of HTML canvas and JavaScript. I enjoy learning about and using cellular automata and Conway's Game of Life is a great place to start!
+          I created this project mostly as a way for me to learn the basics of HTML canvas and JavaScript. I enjoy learning about and using cellular automata, and Conway's Game of Life is a great place to start!
 
-      - layout: top-middle
+      - layout: left
         title: 2020 Gameday Analytics Challenge - 1st Place
         link: https://eccles.utah.edu/programs/undergraduate/game-day-ad-analytics/
+        link_text: Check it out
         description: |
           The Gameday Analytics Challenge is an annual data analysis event put on by the University of Utah's School of Business. The objective is for the participating students to dig into a bunch of tweets about Super Bowl ads and present on any findings they may encounter.
 
           When I participated, we were given 500,000 tweets to work with. My team and I dug through the data and constructed a few graphs relating to viewer response (positive/negative), which quarter is the best to advertise during, and which ads were talked about the most and at what times.
 
-      - layout: top-middle
+      - layout: left
         title: 2019 Information Systems Hackathon - 1st Place
         link: https://eccles.utah.edu/news/is-students-compete-in-the-information-systems-hackathon/
+        link_text: Check it out
         description: |
           This event was a special production put on by the University of Utah's School of Business in conjuction with Layton Construction.
 
