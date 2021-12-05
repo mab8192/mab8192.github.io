@@ -39,14 +39,14 @@ content:
     content:
       - layout: left
         title: University of Utah
-        caption: 2015 - 2022
+        caption: 2021 - 2022
         sub_title: |
           MS in Computing: Data Managment and Analysis
-          BS Computer Science
-          Minor Physics
-          Minor Mathematics
-        quote: >
-          Founded in 1850, The University of Utah is the flagship institution of higher learning in Utah. The U is the best in the nation for technology commercialization (Milken Institute rankings).
+      - layout: left
+        title: University of Utah
+        caption: 2015 - 2021
+        sub_title: |
+          BS Computer Science + Minor Physics
 
   - title: Honors & Awards
     layout: list
