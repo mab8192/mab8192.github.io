@@ -40,10 +40,10 @@ content:
       - layout: left
         title: University of Utah
         sub_title: |
-          MS in Computing: Data Managment and Analysis
+          Computer Science MS
         caption: 2021 - 2022
         description: |
-          For my Master's degree, I chose to pursue the Data Management and Analysis track. Within this track, there is a separate Data Science option which is the track I am currently working towards. I am taking classes such as <mark>Deep Learning</mark>, <mark>Machine Learning</mark>, <mark>Data Mining</mark>, and many others to help get my machine learning engineering skills as sharp as possible.
+          I am currently in the last semester of my Master's Degree. I am taking classes such as <mark>Deep Learning</mark>, <mark>Data Mining</mark>, and <mark>Natural Language Processing>, and many others to help get my machine learning engineering skills as sharp as possible.
 
       - layout: left
         title: University of Utah
@@ -91,7 +91,7 @@ content:
         quote: >
           A creative technology company that crafts digital experiences and enterprise solutions for global brands.
         description: |
-          At Codazen, I work in a team with 2 other data scientists to identify and implement machine learning solutions for many different kinds of business problems.
+          At Codazen, I work in a small team with one other data scientist to identify and implement machine learning solutions for many different kinds of business problems.
 
           Recently, our work has focused on computer vision and natural language processing applications in order to help our customers improve their branding.
 
@@ -154,7 +154,7 @@ content:
     content: |
       Alongside my interests in data science and software engineering, some of my other interests and hobbies are:
       - Rocket League (I play competitively for the University of Utah).
-      - Watching movies and TV shows (especially the Marvel Cinematic Universe).
+      - Watching movies and TV shows (especially Star Wars related).
       - Messing around in VR.
       - Game development.
       - Bowling! My personal best is 182, though I haven't hit that in a while. My highest recent score is 163.
