@@ -27,6 +27,8 @@ about_content: | # this will include new lines to allow paragraphs
 
   I am a recent graduate of the University of Utah, where I completed my Master's degree in Computer Science. I took a wide variety of classes there, from Deep Learning to Web Browser Internals.
 
+  I have a strong interest in reinforcement learning and robotics, and am actively working on building my skillset in those areas.
+
   My best programming language is <mark>Python</mark>, though I'm also very comfortable in <mark>Java</mark>, <mark>C++</mark>, <mark>C#</mark>, <mark>C</mark>, and <mark>JavaScript</mark>.
 
   With Python in particular, I have professional experience with <mark>PyTorch</mark>, <mark>NumPy</mark>, <mark>SpaCy</mark>, <mark>Scikit-learn</mark>, <mark>Pandas</mark>, and many of the other commonly used data science and machine learning packages.
