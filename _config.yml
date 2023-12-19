@@ -39,7 +39,7 @@ content:
     content:
       - layout: left
         title: Sandia National Laboratories
-        link: www.codazen.com
+        link: www.sandia.gov
         sub_title: Computer Science R&D
         caption: August 2023 - Present
         quote: >
@@ -47,7 +47,7 @@ content:
         description: |
           Here at Sandia, I work on satellite and other remote-sensing software systems.
 
-      - layout: right
+      - layout: left
         title: Codazen
         link: www.codazen.com
         sub_title: Data Scientist
@@ -73,7 +73,7 @@ content:
 
           As a result of my efforts, I was included as a co-author on two papers, detailed in a later section.
 
-      - layout: right
+      - layout: left
         title: Fidelity Investments via Education at Work
         link: www.fidelity.com
         sub_title: Data Operations Associate
@@ -96,7 +96,7 @@ content:
         description: |
           For my Master's Degree, I elected to do the course-only option. I took classes such as Deep Learning, Data Mining, and Natural Language Processing, and many others to help get my machine learning engineering skills as sharp as possible.
 
-      - layout: right
+      - layout: left
         title: University of Utah
         sub_title: |
           BS Computer Science, Minor Physics
@@ -116,7 +116,7 @@ content:
 
           I built most of the backend features that currently exist for this collection of apps. The two I am most proud of are the search engine and the color palette generator.
 
-      - layout: right
+      - layout: left
         title: Game of Life
         link: mab8192.github.io/GameOfLife/
         link_text: Check it out
@@ -132,7 +132,7 @@ content:
 
           When I participated, we were given 500,000 tweets to work with. My team and I dug through the data and constructed a few graphs relating to viewer response (positive/negative), which quarter is the best to advertise during, and which ads were talked about the most and at what times.
 
-      - layout: right
+      - layout: left
         title: 2019 Information Systems Hackathon - 1st Place
         link: https://eccles.utah.edu/news/is-students-compete-in-the-information-systems-hackathon/
         link_text: Check it out
@@ -150,7 +150,7 @@ content:
         description: |
           Awarded to students with at least a 3.5 GPA for any given semester. I have been on the dean's list for every semester that I've attended at the University of Utah.
 
-      - layout: right
+      - layout: left
         title: Robert R. Johnson Innovation Endowed Scholarship
         caption: 2020 - 2021
         description: |
@@ -162,7 +162,7 @@ content:
         description: |
           Awarded to students for academic excellence.
 
-      - layout: right
+      - layout: left
         title: Partial Honors at Entrance Scholarship
         caption: 2015 - 2022
         description:
