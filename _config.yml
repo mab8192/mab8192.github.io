@@ -23,15 +23,13 @@ orcid_username: 0000-0002-1077-6780
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name is Michael and I'm a R&D Computer Scientist at Sandia National Laboratories. I work primarily on software for satellites and other remote-sensing systems.
+  Hi, my name is Michael and I'm a R&D Computer Scientist at Sandia National Laboratories. I work primarily on developing cutting-edge software for satellite ground systems.
 
-  I am a graduate of the University of Utah, where I received my Bachelor's and Master's degrees in Computer Science. I also have strong interests in mechanical and aerospace engineering and I hope to one day return to school and earn degrees in those fields as well.
+  I am a graduate of the University of Utah, where I received my Bachelor's and Master's degrees in Computer Science. I also have a strong interest in aerospace engineering and I hope to one day return to school and earn a degree in that field as well.
 
-  I've worked in many programming languages in my career, most notably <mark>Python</mark> and <mark>Java</mark>. I also have experience working in <mark>C++</mark>, <mark>C</mark>, <mark>C#</mark>, and <mark>Go</mark>.
+  I've worked in many programming languages in my career, most notably <mark>Python</mark> and <mark>Java</mark>, though I also have professional experience with <mark>C</mark> and <mark>C++</mark>.
 
-  With Python in particular, I have professional experience with <mark>PyTorch</mark>, <mark>NumPy</mark>, <mark>SpaCy</mark>, <mark>Scikit-learn</mark>, <mark>Pandas</mark>, and many of the other commonly used packages.
-
-  In addition to those languages, I'm also proficient in the following technologies: <mark>Windows/Linux(RHEL8, Ubuntu, Arch)/Mac</mark>, <mark>Git</mark>, and <mark>AWS (EC2, Elastic Beanstalk, S3, RDS, etc.)</mark>.
+  With Python in particular, I've extensively used <mark>PyTorch</mark>, <mark>NumPy</mark>, <mark>SpaCy</mark>, <mark>Scikit-learn</mark>, <mark>Pandas</mark>, and many of the other commonly used packages for data science and machine learning work.
 
 content:
   - title: Experience
@@ -45,7 +43,7 @@ content:
         quote: >
           Exceptional service in the national interest.
         description: |
-          Here at Sandia, I work on satellite and other remote-sensing software systems.
+          I currently work in a large team developing software for satellite ground systems as part of the Global Security program. This work typically involves using Java and JavaFX to build and update applications for many different purposes, such as tasking, scheduling, commanding, controlling, and monitoring state-of-health for remote sensing systems.
 
       - layout: left
         title: Codazen
@@ -94,7 +92,7 @@ content:
           Computer Science MS
         caption: 2021 - 2022
         description: |
-          For my Master's Degree, I elected to do the course-only option. I took classes such as Deep Learning, Data Mining, and Natural Language Processing, and many others to help get my machine learning engineering skills as sharp as possible.
+          For my Master's Degree, I elected to do the course-only option and took a deep dive into topics that interested me, such as advanced algorithms, robotics, and deep learning.
 
       - layout: left
         title: University of Utah
@@ -102,7 +100,9 @@ content:
           BS Computer Science, Minor Physics
         caption: 2015 - 2021
         description: |
-          For my Bachelor's degree, I initially started out as a Physics major. I worked towards that degree for about two years before making the decision to switch to Computer Science. My CS electives included: <mark>Artificial Intelligence</mark>, <mark>Virtual Reality</mark>, <mark>Computer Graphics</mark>, <mark>Robotics</mark>, <mark>Computer Networks</mark>, and <mark>Web Browser Internals</mark>. Of these classes, AI and VR were my two favorites.
+          For my Bachelor's degree, I initially started out as a Physics major. I worked towards that degree for about two years before making the decision to switch to Computer Science.
+
+          My CS electives included: <mark>Artificial Intelligence</mark>, <mark>Virtual Reality</mark>, <mark>Computer Graphics</mark>, <mark>Robotics</mark>, <mark>Computer Networks</mark>, and <mark>Web Browser Internals</mark>. Of these classes, AI and VR were my two favorites.
 
   - title: Projects
     layout: list
@@ -114,14 +114,14 @@ content:
         description: |
           This is the primary project I spent most of my time working on during the last two years of my employment at Codazen. It is a collection of in-house-built machine learning tools intended to aid designers in crafting branded experiences.
 
-          I built most of the backend features that currently exist for this collection of apps. The two I am most proud of are the search engine and the color palette generator.
+          I built most of the backend features that currently exist for this collection of apps, including all of our internal devops tools and CI/CD pipelines. The two backend features I built that I am most proud of are the custom search engine and the color palette generator, both of which are free to try at time of writing.
 
       - layout: left
         title: Game of Life
         link: mab8192.github.io/GameOfLife/
         link_text: Check it out
         description: |
-          I created this project mostly as a way for me to learn the basics of HTML canvas and JavaScript. I also enjoy learning about and using cellular automata, and Conway's Game of Life was a great place to start!
+          I created this project mostly as a way for me to learn the basics of HTML canvas and JavaScript.
 
       - layout: left
         title: 2020 Gameday Analytics Challenge - 1st Place
@@ -146,9 +146,9 @@ content:
     content:
       - layout: left
         title: Dean's List
-        caption: 2015 - Present
+        caption: 2015 - 2021
         description: |
-          Awarded to students with at least a 3.5 GPA for any given semester. I have been on the dean's list for every semester that I've attended at the University of Utah.
+          Awarded to undergraduate students with at least a 3.5 GPA for any given semester. I have been on the dean's list for every semester that I've attended at the University of Utah.
 
       - layout: left
         title: Robert R. Johnson Innovation Endowed Scholarship
@@ -171,13 +171,13 @@ content:
   - title: A Little More About Me
     layout: text
     content: |
-      Alongside my interests in data science and software engineering, some of my other interests and hobbies are:
-      - Rocket League (I used to play competitively for the University of Utah where I won prize money in several tournaments).
+      Alongside my interests in aerospace, data science, and software engineering, some of my other interests and hobbies are:
+      - Rocket League (I used to play competitively for the University of Utah where I won prize money in several sponsored tournaments).
       - Watching movies and TV shows (especially Star Wars).
       - Messing around in VR, both in games and in game engines.
       - Game development.
       - Bowling! My personal best is 182, though I haven't hit that in a while. My highest recent score is 163.
-      - Tabletop board games.
+      - Tabletop RPGs and board games.
 
 # Footer
 footer_show_references: false
