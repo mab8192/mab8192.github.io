@@ -9,7 +9,6 @@ version: 2
 name: Michael Blum
 title: Computer Science R&D
 email: mab8192@gmail.com
-website: mab8192.github.io
 
 # Dark Mode (true/false/never)
 darkmode: true
@@ -23,13 +22,11 @@ orcid_username: 0000-0002-1077-6780
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name is Michael and I'm a R&D Computer Scientist at Sandia National Laboratories. I work primarily on developing cutting-edge software for satellite ground systems.
+  Hi, my name is Michael and I'm an R&D Computer Scientist at Sandia National Laboratories. I am currently working on several projects, though I spend most of my time developing cutting-edge software for satellite ground systems.
 
   I am a graduate of the University of Utah, where I received my Bachelor's and Master's degrees in Computer Science. I also have a strong interest in aerospace engineering and I hope to one day return to school and earn a degree in that field as well.
 
   I've worked in many programming languages in my career, most notably <mark>Python</mark> and <mark>Java</mark>, though I also have professional experience with <mark>C</mark> and <mark>C++</mark>.
-
-  With Python in particular, I've extensively used <mark>PyTorch</mark>, <mark>NumPy</mark>, <mark>SpaCy</mark>, <mark>Scikit-learn</mark>, <mark>Pandas</mark>, and many of the other commonly used packages for data science and machine learning work.
 
 content:
   - title: Experience
@@ -38,12 +35,12 @@ content:
       - layout: left
         title: Sandia National Laboratories
         link: www.sandia.gov
-        sub_title: Computer Science R&D
+        sub_title: R&D Computer Scientist
         caption: August 2023 - Present
         quote: >
           Exceptional service in the national interest.
         description: |
-          I currently work in a large team developing software for satellite ground systems as part of the Global Security program. This work typically involves using Java and JavaFX to build and update applications for many different purposes, such as tasking, scheduling, commanding, controlling, and monitoring state-of-health for remote sensing systems.
+          My primary focus is currently on developing software for satellite ground systems as part of the Global Security program. This work typically involves designing and writing Java to build and update applications and backend processes for many different purposes, such as tasking, scheduling, commanding, controlling, and monitoring state-of-health for remote sensing systems.
 
       - layout: left
         title: Codazen
